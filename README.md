@@ -1,6 +1,6 @@
-☺欢迎来到图片的想象世界
-项目是将图片转化为故事
-在启动项目之前得更改api_key和api_base以及huggingface key
+☺欢迎来到图片的想象世界\n
+项目是将图片转化为故事\n
+在启动项目之前得更改api_key和api_base以及huggingface key\n
 接着创建虚拟环境
 ```
 conda create -n pixtostor python=3.8
